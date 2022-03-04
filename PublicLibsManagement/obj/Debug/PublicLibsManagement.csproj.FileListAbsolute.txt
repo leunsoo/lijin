@@ -1,0 +1,179 @@
+D:\KIM_PROJECT\NEW\PublicLibsManagement\bin\Debug\PublicLibsManagement.dll
+D:\KIM_PROJECT\NEW\PublicLibsManagement\bin\Debug\PublicLibsManagement.pdb
+D:\KIM_PROJECT\NEW\PublicLibsManagement\obj\Debug\PublicLibsManagement.csprojAssemblyReference.cache
+D:\KIM_PROJECT\NEW\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CoreCompileInputs.cache
+D:\KIM_PROJECT\NEW\PublicLibsManagement\obj\Debug\PublicLibsManagement.dll
+D:\KIM_PROJECT\NEW\PublicLibsManagement\obj\Debug\PublicLibsManagement.pdb
+D:\KIM_PROJECT\NEW\PublicLibsManagement\bin\Debug\AppConfiguration.dll
+D:\KIM_PROJECT\NEW\PublicLibsManagement\bin\Debug\Dapper.dll
+D:\KIM_PROJECT\NEW\PublicLibsManagement\bin\Debug\NISSILib.dll
+D:\KIM_PROJECT\NEW\PublicLibsManagement\bin\Debug\Globals.dll
+D:\KIM_PROJECT\NEW\PublicLibsManagement\bin\Debug\AppConfiguration.pdb
+D:\KIM_PROJECT\NEW\PublicLibsManagement\bin\Debug\NISSILib.pdb
+D:\KIM_PROJECT\NEW\PublicLibsManagement\bin\Debug\Dapper.xml
+D:\KIM_PROJECT\NEW\PublicLibsManagement\bin\Debug\Globals.pdb
+D:\KIM_PROJECT\NEW\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CopyComplete
+D:\KIM_PROJECT\webC\PublicLibsManagement\obj\Debug\PublicLibsManagement.csprojAssemblyReference.cache
+D:\KIM_PROJECT\webC\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CoreCompileInputs.cache
+D:\KIM_PROJECT\webC\PublicLibsManagement\obj\Debug\PublicLibsManagement.dll
+D:\KIM_PROJECT\webC\PublicLibsManagement\obj\Debug\PublicLibsManagement.pdb
+D:\KIM_PROJECT\webC\PublicLibsManagement\bin\Debug\PublicLibsManagement.dll
+D:\KIM_PROJECT\webC\PublicLibsManagement\bin\Debug\PublicLibsManagement.pdb
+D:\KIM_PROJECT\webC\PublicLibsManagement\bin\Debug\AppConfiguration.dll
+D:\KIM_PROJECT\webC\PublicLibsManagement\bin\Debug\DBLib_WC.dll
+D:\KIM_PROJECT\webC\PublicLibsManagement\bin\Debug\Globals.dll
+D:\KIM_PROJECT\webC\PublicLibsManagement\bin\Debug\NISSILib.dll
+D:\KIM_PROJECT\webC\PublicLibsManagement\bin\Debug\Dapper.xml
+D:\KIM_PROJECT\webC\PublicLibsManagement\bin\Debug\DBLib_WC.pdb
+D:\KIM_PROJECT\webC\PublicLibsManagement\bin\Debug\Globals.pdb
+D:\KIM_PROJECT\webC\PublicLibsManagement\bin\Debug\NISSILib.pdb
+D:\KIM_PROJECT\webC\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CopyComplete
+D:\KIM_PROJECT\webC\idakonet\PublicLibsManagement\obj\Debug\PublicLibsManagement.csprojAssemblyReference.cache
+D:\KIM_PROJECT\webC\idakonet\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CoreCompileInputs.cache
+D:\KIM_PROJECT\webC\idakonet\PublicLibsManagement\obj\Debug\PublicLibsManagement.dll
+D:\KIM_PROJECT\webC\idakonet\PublicLibsManagement\obj\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\iljin 0830\PublicLibsManagement\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\iljin 0830\PublicLibsManagement\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\iljin 0830\PublicLibsManagement\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\iljin 0830\PublicLibsManagement\bin\Debug\MySql.Data.dll
+C:\Users\ibuild\Desktop\일진\iljin 0830\PublicLibsManagement\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\iljin 0830\PublicLibsManagement\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\iljin 0830\PublicLibsManagement\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\iljin 0830\PublicLibsManagement\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\iljin 0830\PublicLibsManagement\bin\Debug\Dapper.xml
+C:\Users\ibuild\Desktop\일진\iljin 0830\PublicLibsManagement\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\iljin 0830\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\iljin 0830\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\iljin 0830\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\iljin 0830\PublicLibsManagement\obj\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\iljin 0830\PublicLibsManagement\obj\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1006\PublicLibsManagement\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\iljin_1006\PublicLibsManagement\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1006\PublicLibsManagement\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\iljin_1006\PublicLibsManagement\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1006\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\iljin_1006\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\iljin_1006\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\iljin_1006\PublicLibsManagement\obj\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\iljin_1006\PublicLibsManagement\obj\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1006\PublicLibsManagement\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\iljin_1006\PublicLibsManagement\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\iljin_1006\PublicLibsManagement\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1006\PublicLibsManagement\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\PublicLibsManagement\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\PublicLibsManagement\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\PublicLibsManagement\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\PublicLibsManagement\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\PublicLibsManagement\obj\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\PublicLibsManagement\obj\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\PublicLibsManagement\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\PublicLibsManagement\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\PublicLibsManagement\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\PublicLibsManagement\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\PublicLibsManagement\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\PublicLibsManagement\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\PublicLibsManagement\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\PublicLibsManagement\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\PublicLibsManagement\obj\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\PublicLibsManagement\obj\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\PublicLibsManagement\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\PublicLibsManagement\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\PublicLibsManagement\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\PublicLibsManagement\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\PublicLibsManagement\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\PublicLibsManagement\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\PublicLibsManagement\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\PublicLibsManagement\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\PublicLibsManagement\obj\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\PublicLibsManagement\obj\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\PublicLibsManagement\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\PublicLibsManagement\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\PublicLibsManagement\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\PublicLibsManagement\bin\Debug\Globals.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\PublicLibsManagement\bin\Debug\PublicLibsManagement.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\PublicLibsManagement\bin\Debug\PublicLibsManagement.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\PublicLibsManagement\bin\Debug\AppConfiguration.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\PublicLibsManagement\bin\Debug\MysqlLib.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\PublicLibsManagement\bin\Debug\Globals.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\PublicLibsManagement\bin\Debug\MysqlLib.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\PublicLibsManagement\bin\Debug\AppConfiguration.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\PublicLibsManagement\bin\Debug\Globals.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.AssemblyReference.cache
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CoreCompileInputs.cache
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CopyComplete
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\PublicLibsManagement\obj\Debug\PublicLibsManagement.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\PublicLibsManagement\obj\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\PublicLibsManagement\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\PublicLibsManagement\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\PublicLibsManagement\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\PublicLibsManagement\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\PublicLibsManagement\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\PublicLibsManagement\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\PublicLibsManagement\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\PublicLibsManagement\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\PublicLibsManagement\obj\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\PublicLibsManagement\obj\Debug\PublicLibsManagement.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\PublicLibsManagement\bin\Debug\PublicLibsManagement.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\PublicLibsManagement\bin\Debug\PublicLibsManagement.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\PublicLibsManagement\bin\Debug\AppConfiguration.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\PublicLibsManagement\bin\Debug\MysqlLib.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\PublicLibsManagement\bin\Debug\Globals.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\PublicLibsManagement\bin\Debug\MysqlLib.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\PublicLibsManagement\bin\Debug\AppConfiguration.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\PublicLibsManagement\bin\Debug\Globals.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.AssemblyReference.cache
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CoreCompileInputs.cache
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CopyComplete
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\PublicLibsManagement\obj\Debug\PublicLibsManagement.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\PublicLibsManagement\obj\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\PublicLibsManagement\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\PublicLibsManagement\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\PublicLibsManagement\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\PublicLibsManagement\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\PublicLibsManagement\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\PublicLibsManagement\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\PublicLibsManagement\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\PublicLibsManagement\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\PublicLibsManagement\obj\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\PublicLibsManagement\obj\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\PublicLibsManagement\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\PublicLibsManagement\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\PublicLibsManagement\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\PublicLibsManagement\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\PublicLibsManagement\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\PublicLibsManagement\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\PublicLibsManagement\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\PublicLibsManagement\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\PublicLibsManagement\obj\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\PublicLibsManagement\obj\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\obj\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\obj\Debug\PublicLibsManagement.pdb

@@ -1,0 +1,150 @@
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_06\les\bin\Debug\les.dll
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_06\les\bin\Debug\les.pdb
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_06\les\obj\Debug\les.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_06\les\obj\Debug\les.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_06\les\obj\Debug\les.dll
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_06\les\obj\Debug\les.pdb
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_06\les\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_06\les\bin\Debug\MySql.Data.dll
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_06\les\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_06\les\obj\Debug\les.csproj.CopyComplete
+C:\Users\silve\OneDrive\바탕 화면\mou\다코넷MOU\dakonet_Mou_12_15\les\bin\Debug\les.dll
+C:\Users\silve\OneDrive\바탕 화면\mou\다코넷MOU\dakonet_Mou_12_15\les\bin\Debug\les.pdb
+C:\Users\silve\OneDrive\바탕 화면\mou\다코넷MOU\dakonet_Mou_12_15\les\bin\Debug\MysqlLib.dll
+C:\Users\silve\OneDrive\바탕 화면\mou\다코넷MOU\dakonet_Mou_12_15\les\bin\Debug\MySql.Data.dll
+C:\Users\silve\OneDrive\바탕 화면\mou\다코넷MOU\dakonet_Mou_12_15\les\bin\Debug\MysqlLib.pdb
+C:\Users\silve\OneDrive\바탕 화면\mou\다코넷MOU\dakonet_Mou_12_15\les\obj\Debug\les.csproj.AssemblyReference.cache
+C:\Users\silve\OneDrive\바탕 화면\mou\다코넷MOU\dakonet_Mou_12_15\les\obj\Debug\les.csproj.CoreCompileInputs.cache
+C:\Users\silve\OneDrive\바탕 화면\mou\다코넷MOU\dakonet_Mou_12_15\les\obj\Debug\les.csproj.CopyComplete
+C:\Users\silve\OneDrive\바탕 화면\mou\다코넷MOU\dakonet_Mou_12_15\les\obj\Debug\les.dll
+C:\Users\silve\OneDrive\바탕 화면\mou\다코넷MOU\dakonet_Mou_12_15\les\obj\Debug\les.pdb
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_16\les\bin\Debug\les.dll
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_16\les\bin\Debug\les.pdb
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_16\les\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_16\les\bin\Debug\MySql.Data.dll
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_16\les\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_16\les\obj\Debug\les.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_16\les\obj\Debug\les.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_16\les\obj\Debug\les.csproj.CopyComplete
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_16\les\obj\Debug\les.dll
+C:\Users\ibuild\Desktop\다코넷MOU\dakonet_Mou_12_16\les\obj\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1006\les\bin\Debug\les.dll
+C:\Users\ibuild\Desktop\일진\iljin_1006\les\bin\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1006\les\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\iljin_1006\les\bin\Debug\MySql.Data.dll
+C:\Users\ibuild\Desktop\일진\iljin_1006\les\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1006\les\obj\Debug\les.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\iljin_1006\les\obj\Debug\les.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\iljin_1006\les\obj\Debug\les.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\iljin_1006\les\obj\Debug\les.dll
+C:\Users\ibuild\Desktop\일진\iljin_1006\les\obj\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1006\les\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\iljin_1006\les\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\les\bin\Debug\les.dll
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\les\bin\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\les\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\les\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\les\bin\Debug\MySql.Data.dll
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\les\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\les\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\les\obj\Debug\les.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\les\obj\Debug\les.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\les\obj\Debug\les.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\les\obj\Debug\les.dll
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\les\obj\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\les\bin\Debug\les.dll
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\les\bin\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\les\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\les\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\les\bin\Debug\MySql.Data.dll
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\les\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\les\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\les\obj\Debug\les.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\les\obj\Debug\les.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\les\obj\Debug\les.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\les\obj\Debug\les.dll
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\les\obj\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\les\bin\Debug\les.dll
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\les\bin\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\les\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\les\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\les\bin\Debug\MySql.Data.dll
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\les\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\les\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\les\obj\Debug\les.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\les\obj\Debug\les.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\les\obj\Debug\les.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\les\obj\Debug\les.dll
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\les\obj\Debug\les.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\les\bin\Debug\les.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\les\bin\Debug\les.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\les\bin\Debug\MysqlLib.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\les\bin\Debug\PublicLibsManagement.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\les\bin\Debug\MySql.Data.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\les\bin\Debug\MysqlLib.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\les\bin\Debug\PublicLibsManagement.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\les\obj\Debug\les.csproj.AssemblyReference.cache
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\les\obj\Debug\les.csproj.CoreCompileInputs.cache
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\les\obj\Debug\les.csproj.CopyComplete
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\les\obj\Debug\les.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\les\obj\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\les\bin\Debug\les.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\les\bin\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\les\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\les\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\les\bin\Debug\MySql.Data.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\les\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\les\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\les\obj\Debug\les.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\les\obj\Debug\les.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\les\obj\Debug\les.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\les\obj\Debug\les.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\les\obj\Debug\les.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\les\bin\Debug\les.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\les\bin\Debug\les.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\les\bin\Debug\MysqlLib.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\les\bin\Debug\PublicLibsManagement.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\les\bin\Debug\MySql.Data.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\les\bin\Debug\MysqlLib.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\les\bin\Debug\PublicLibsManagement.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\les\obj\Debug\les.csproj.AssemblyReference.cache
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\les\obj\Debug\les.csproj.CoreCompileInputs.cache
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\les\obj\Debug\les.csproj.CopyComplete
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\les\obj\Debug\les.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\les\obj\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\les\bin\Debug\les.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\les\bin\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\les\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\les\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\les\bin\Debug\MySql.Data.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\les\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\les\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\les\obj\Debug\les.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\les\obj\Debug\les.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\les\obj\Debug\les.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\les\obj\Debug\les.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\les\obj\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\les\bin\Debug\les.dll
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\les\bin\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\les\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\les\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\les\bin\Debug\MySql.Data.dll
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\les\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\les\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\les\obj\Debug\les.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\les\obj\Debug\les.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\les\obj\Debug\les.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\les\obj\Debug\les.dll
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\les\obj\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\les\bin\Debug\les.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\les\bin\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\les\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\les\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\les\bin\Debug\MySql.Data.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\les\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\les\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\les\obj\Debug\les.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\les\obj\Debug\les.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\les\obj\Debug\les.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\les\obj\Debug\les.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\les\obj\Debug\les.pdb

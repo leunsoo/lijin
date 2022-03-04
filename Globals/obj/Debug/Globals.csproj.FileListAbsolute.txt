@@ -1,0 +1,59 @@
+D:\KIM_PROJECT\NEW\Globals\bin\Debug\Globals.dll
+D:\KIM_PROJECT\NEW\Globals\bin\Debug\Globals.pdb
+D:\KIM_PROJECT\NEW\Globals\obj\Debug\Globals.csprojAssemblyReference.cache
+D:\KIM_PROJECT\NEW\Globals\obj\Debug\Globals.csproj.CoreCompileInputs.cache
+D:\KIM_PROJECT\NEW\Globals\obj\Debug\Globals.dll
+D:\KIM_PROJECT\NEW\Globals\obj\Debug\Globals.pdb
+D:\KIM_PROJECT\webC\idakonet\Globals\bin\Debug\Globals.dll
+D:\KIM_PROJECT\webC\idakonet\Globals\bin\Debug\Globals.pdb
+D:\KIM_PROJECT\webC\idakonet\Globals\obj\Debug\Globals.csprojAssemblyReference.cache
+D:\KIM_PROJECT\webC\idakonet\Globals\obj\Debug\Globals.csproj.CoreCompileInputs.cache
+D:\KIM_PROJECT\webC\idakonet\Globals\obj\Debug\Globals.dll
+D:\KIM_PROJECT\webC\idakonet\Globals\obj\Debug\Globals.pdb
+D:\project\idakonet\Globals\bin\Debug\Globals.dll
+D:\project\idakonet\Globals\bin\Debug\Globals.pdb
+D:\project\idakonet\Globals\obj\Debug\Globals.csproj.AssemblyReference.cache
+D:\project\idakonet\Globals\obj\Debug\Globals.csproj.CoreCompileInputs.cache
+D:\project\idakonet\Globals\obj\Debug\Globals.dll
+D:\project\idakonet\Globals\obj\Debug\Globals.pdb
+D:\다코넷\idakonet\Globals\bin\Debug\Globals.dll
+D:\다코넷\idakonet\Globals\bin\Debug\Globals.pdb
+D:\다코넷\idakonet\Globals\obj\Debug\Globals.csproj.AssemblyReference.cache
+D:\다코넷\idakonet\Globals\obj\Debug\Globals.csproj.CoreCompileInputs.cache
+D:\다코넷\idakonet\Globals\obj\Debug\Globals.dll
+D:\다코넷\idakonet\Globals\obj\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\idakonet 0827\Globals\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\idakonet 0827\Globals\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\idakonet 0827\Globals\obj\Debug\Globals.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\idakonet 0827\Globals\obj\Debug\Globals.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\idakonet 0827\Globals\obj\Debug\Globals.dll
+C:\Users\ibuild\Desktop\idakonet 0827\Globals\obj\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\iljin 0830\Globals\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\iljin 0830\Globals\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\iljin 0830\Globals\obj\Debug\Globals.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\iljin 0830\Globals\obj\Debug\Globals.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\iljin 0830\Globals\obj\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\iljin 0830\Globals\obj\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1006\Globals\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\iljin_1006\Globals\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1006\Globals\obj\Debug\Globals.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\iljin_1006\Globals\obj\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\iljin_1006\Globals\obj\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\Globals\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\Globals\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\Globals\obj\Debug\Globals.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\Globals\obj\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\Globals\obj\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\Globals\obj\Debug\Globals.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\Globals\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\Globals\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\Globals\obj\Debug\Globals.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\Globals\obj\Debug\Globals.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\Globals\obj\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\Globals\obj\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\Globals\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\Globals\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\Globals\obj\Debug\Globals.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\Globals\obj\Debug\Globals.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\Globals\obj\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\Globals\obj\Debug\Globals.pdb

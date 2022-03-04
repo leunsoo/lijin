@@ -1,0 +1,235 @@
+D:\KIM_PROJECT\NEW\AppConfiguration\bin\Debug\AppConfiguration.dll
+D:\KIM_PROJECT\NEW\AppConfiguration\bin\Debug\AppConfiguration.pdb
+D:\KIM_PROJECT\NEW\AppConfiguration\bin\Debug\Dapper.dll
+D:\KIM_PROJECT\NEW\AppConfiguration\bin\Debug\Globals.dll
+D:\KIM_PROJECT\NEW\AppConfiguration\bin\Debug\Globals.pdb
+D:\KIM_PROJECT\NEW\AppConfiguration\bin\Debug\Dapper.xml
+D:\KIM_PROJECT\NEW\AppConfiguration\obj\Debug\AppConfiguration.csprojAssemblyReference.cache
+D:\KIM_PROJECT\NEW\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+D:\KIM_PROJECT\NEW\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+D:\KIM_PROJECT\NEW\AppConfiguration\obj\Debug\AppConfiguration.dll
+D:\KIM_PROJECT\NEW\AppConfiguration\obj\Debug\AppConfiguration.pdb
+D:\KIM_PROJECT\NEW\AppConfiguration\bin\Debug\NISSILib.dll
+D:\KIM_PROJECT\NEW\AppConfiguration\bin\Debug\NISSILib.pdb
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\AppConfiguration.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\AppConfiguration.pdb
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\Globals.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\MysqlLib.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\MySql.Data.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\Google.Protobuf.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\Zstandard.Net.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\BouncyCastle.Crypto.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\Ubiety.Dns.Core.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\Renci.SshNet.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\System.Buffers.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\K4os.Compression.LZ4.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\K4os.Hash.xxHash.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\System.Memory.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\System.Numerics.Vectors.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\Globals.pdb
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\MysqlLib.pdb
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\Dapper.xml
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\bin\Debug\MySql.Data.xml
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\obj\Debug\AppConfiguration.csprojAssemblyReference.cache
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\obj\Debug\AppConfiguration.dll
+D:\KIM_PROJECT\webC\idakonet\AppConfiguration\obj\Debug\AppConfiguration.pdb
+D:\project\idakonet\AppConfiguration\bin\Debug\AppConfiguration.dll
+D:\project\idakonet\AppConfiguration\bin\Debug\AppConfiguration.pdb
+D:\project\idakonet\AppConfiguration\bin\Debug\Globals.dll
+D:\project\idakonet\AppConfiguration\bin\Debug\MysqlLib.dll
+D:\project\idakonet\AppConfiguration\bin\Debug\Google.Protobuf.dll
+D:\project\idakonet\AppConfiguration\bin\Debug\Zstandard.Net.dll
+D:\project\idakonet\AppConfiguration\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\project\idakonet\AppConfiguration\bin\Debug\BouncyCastle.Crypto.dll
+D:\project\idakonet\AppConfiguration\bin\Debug\Ubiety.Dns.Core.dll
+D:\project\idakonet\AppConfiguration\bin\Debug\Renci.SshNet.dll
+D:\project\idakonet\AppConfiguration\bin\Debug\System.Buffers.dll
+D:\project\idakonet\AppConfiguration\bin\Debug\K4os.Compression.LZ4.dll
+D:\project\idakonet\AppConfiguration\bin\Debug\K4os.Hash.xxHash.dll
+D:\project\idakonet\AppConfiguration\bin\Debug\System.Memory.dll
+D:\project\idakonet\AppConfiguration\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\project\idakonet\AppConfiguration\bin\Debug\System.Numerics.Vectors.dll
+D:\project\idakonet\AppConfiguration\bin\Debug\Globals.pdb
+D:\project\idakonet\AppConfiguration\bin\Debug\MysqlLib.pdb
+D:\project\idakonet\AppConfiguration\bin\Debug\Dapper.xml
+D:\project\idakonet\AppConfiguration\bin\Debug\MySql.Data.xml
+D:\project\idakonet\AppConfiguration\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache
+D:\project\idakonet\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+D:\project\idakonet\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+D:\project\idakonet\AppConfiguration\obj\Debug\AppConfiguration.dll
+D:\project\idakonet\AppConfiguration\obj\Debug\AppConfiguration.pdb
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\AppConfiguration.dll
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\AppConfiguration.pdb
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\Globals.dll
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\MysqlLib.dll
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\Google.Protobuf.dll
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\Zstandard.Net.dll
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\BouncyCastle.Crypto.dll
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\Ubiety.Dns.Core.dll
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\Renci.SshNet.dll
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\System.Buffers.dll
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\K4os.Compression.LZ4.dll
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\K4os.Hash.xxHash.dll
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\System.Memory.dll
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\System.Numerics.Vectors.dll
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\Globals.pdb
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\MysqlLib.pdb
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\Dapper.xml
+D:\다코넷\idakonet\AppConfiguration\bin\Debug\MySql.Data.xml
+D:\다코넷\idakonet\AppConfiguration\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache
+D:\다코넷\idakonet\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+D:\다코넷\idakonet\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+D:\다코넷\idakonet\AppConfiguration\obj\Debug\AppConfiguration.dll
+D:\다코넷\idakonet\AppConfiguration\obj\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\Google.Protobuf.dll
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\Zstandard.Net.dll
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\Renci.SshNet.dll
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\System.Buffers.dll
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\System.Memory.dll
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\Dapper.xml
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\bin\Debug\MySql.Data.xml
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\obj\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\idakonet 0827\AppConfiguration\obj\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\iljin 0830\AppConfiguration\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\iljin 0830\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\iljin 0830\AppConfiguration\obj\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\iljin 0830\AppConfiguration\obj\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\iljin 0830\AppConfiguration\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\iljin 0830\AppConfiguration\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\iljin 0830\AppConfiguration\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\iljin 0830\AppConfiguration\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\iljin 0830\AppConfiguration\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\iljin 0830\AppConfiguration\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\iljin 0830\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\iljin_1006\AppConfiguration\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\iljin_1006\AppConfiguration\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1006\AppConfiguration\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\iljin_1006\AppConfiguration\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\iljin_1006\AppConfiguration\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1006\AppConfiguration\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1006\AppConfiguration\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\iljin_1006\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\iljin_1006\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\iljin_1006\AppConfiguration\obj\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\iljin_1006\AppConfiguration\obj\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\AppConfiguration\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\AppConfiguration\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\AppConfiguration\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\AppConfiguration\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\AppConfiguration\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\AppConfiguration\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\AppConfiguration\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\AppConfiguration\obj\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\iljin_1231 (2)\AppConfiguration\obj\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\AppConfiguration\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\AppConfiguration\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\AppConfiguration\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\AppConfiguration\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\AppConfiguration\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\AppConfiguration\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\AppConfiguration\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\AppConfiguration\obj\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\2022_01_11_ilijin\AppConfiguration\obj\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\AppConfiguration\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\AppConfiguration\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\AppConfiguration\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\AppConfiguration\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\AppConfiguration\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\AppConfiguration\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\AppConfiguration\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\AppConfiguration\obj\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\a)2022_01_11_ilijin_배포게시\AppConfiguration\obj\Debug\AppConfiguration.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\AppConfiguration\bin\Debug\AppConfiguration.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\AppConfiguration\bin\Debug\AppConfiguration.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\AppConfiguration\bin\Debug\Globals.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\AppConfiguration\bin\Debug\MysqlLib.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\AppConfiguration\bin\Debug\MysqlLib.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\AppConfiguration\bin\Debug\Globals.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\AppConfiguration\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\AppConfiguration\obj\Debug\AppConfiguration.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_10_ilijin_배포게시\AppConfiguration\obj\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\AppConfiguration\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\AppConfiguration\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\AppConfiguration\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\AppConfiguration\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\AppConfiguration\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\AppConfiguration\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\AppConfiguration\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\AppConfiguration\obj\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시\AppConfiguration\obj\Debug\AppConfiguration.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\AppConfiguration\bin\Debug\AppConfiguration.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\AppConfiguration\bin\Debug\AppConfiguration.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\AppConfiguration\bin\Debug\Globals.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\AppConfiguration\bin\Debug\MysqlLib.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\AppConfiguration\bin\Debug\MysqlLib.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\AppConfiguration\bin\Debug\Globals.pdb
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\AppConfiguration\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\AppConfiguration\obj\Debug\AppConfiguration.dll
+C:\Users\silve\OneDrive\바탕 화면\일진\a)2022_02_11_ilijin_배포게시_home\AppConfiguration\obj\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\AppConfiguration\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\AppConfiguration\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\AppConfiguration\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\AppConfiguration\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\AppConfiguration\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\AppConfiguration\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\AppConfiguration\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\AppConfiguration\obj\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_11_ilijin_배포게시_home (2)\AppConfiguration\obj\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\AppConfiguration\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\AppConfiguration\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\AppConfiguration\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\AppConfiguration\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\AppConfiguration\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\AppConfiguration\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\AppConfiguration\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\AppConfiguration\obj\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진 수정본\a)2022_02_11_ilijin_test\AppConfiguration\obj\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\AppConfiguration\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\AppConfiguration\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\AppConfiguration\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\AppConfiguration\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\AppConfiguration\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\AppConfiguration\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\AppConfiguration\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\AppConfiguration\obj\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\AppConfiguration\obj\Debug\AppConfiguration.pdb
