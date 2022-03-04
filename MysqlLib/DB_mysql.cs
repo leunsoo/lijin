@@ -16,6 +16,7 @@ namespace MysqlLib
 {
     public class DB_mysql
     {
+
         public static MySqlConnection DB_Conn;// = new MySqlConnection(Config.conn);
         public static MySqlCommand DBcmd;// = new MySqlCommand(sql, DB_Conn);
         public static MySqlDataAdapter adapter;// = new MySqlDataAdapter(DBcmd); 
