@@ -8,7 +8,7 @@ using System;
 
 namespace les
 {
-    public static class les_Tool_DB
+    public static class Tool_DB
     {
         /// <summary>
         /// 채번코드 전용 함수 :: 데이터 저장 시 다시 한번 코드 확인용

@@ -49,8 +49,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="les_DataGridSystem.cs" />
-    <Compile Include="les_Tool.cs" />
-    <Compile Include="les_Tool_DB.cs" />
+    <Compile Include="Tool.cs" />
+    <Compile Include="Tool_DB.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

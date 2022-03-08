@@ -8,7 +8,25 @@ using System;
 
 namespace les
 {
-    public static class les_Tool
+    public static class Tool_UI
+    {
+        //음수 빨간글자로 표시
+        public static void NegativeText_Set_RedColor(TableCell cell)
+        {
+            if (cell.Text == "") return;
+
+            if (double.TryParse(cell.Text, out double trydouble))
+            {
+                if (trydouble < 0)
+                {
+                    cell.Attributes.Add("style", "color:red");
+                }
+            }
+        }
+    }
+
+
+    public static class Tool_Date
     {
         public static string Get_Date_Now()
         {
