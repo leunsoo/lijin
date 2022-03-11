@@ -25,7 +25,6 @@ namespace les
         }
     }
 
-
     public static class Tool_Date
     {
         public static string Get_Date_Now()

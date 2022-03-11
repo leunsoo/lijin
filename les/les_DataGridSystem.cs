@@ -363,8 +363,8 @@ namespace les
         /// DataTable로 DataGrid 생성 조건::아이템 컨트롤이 없어야함
         /// </summary>
         /// <param name="SortColumn"> DataTable에서 merge기준이 될 columnPosition </param>
-        /// <param name="start"> merge startPosition </param>
-        /// <param name="end"> merge endPosition </param>
+        /// <param name="start"> merge 시작위치 </param>
+        /// <param name="end"> merge 끝 위치 </param>
         /// <param name="caseNo">0= DT그대로 복사, 1= cells[0]에 No 넣어줌, 2= cells[0]에 idx넣고 cell[1]에 No 넣어줌</param>
         public static void Set_Merge_DataGrid_From_Dt(DataGrid grdTable, DataTable dt,int SortColumn,int start,int end, int caseNo)
         {
@@ -406,12 +406,12 @@ namespace les
                         rowSpan = 1;
                     }
 
-                    for (int j = 0; i < start; i++)
+                    for (int j = 0; j < start; j++)
                     {
                         grdTable.Items[i].Cells[j].Text = dt.Rows[i][j].ToString();
                     }
 
-                    for (int j = end + 1; i < cCount; i++)
+                    for (int j = end + 1; j < cCount; j++)
                     {
                         grdTable.Items[i].Cells[j].Text = dt.Rows[i][j].ToString();
                     }
