@@ -118,7 +118,8 @@ namespace MysqlLib
         static public bool getConfig()
         {
             string url = URL; //  Environment.CurrentDirectory + "\\" + cfgFile;
-
+            conn = "Server=10.41.152.57;port=3306;Database=iljin;Uid=idakonet;Pwd=idakonet!@#$;character set=utf8;allow zero datetime=yes;";
+            return true;
             if (!File.Exists(url)) { return false; }
             try
             {

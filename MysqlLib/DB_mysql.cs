@@ -36,15 +36,16 @@ namespace MysqlLib
                 if (DB_Conn != null) DB_Conn.Close();
                 if (Config.DBSERVER == null || Config.DBSERVER == "")
                 {
-                    //Config.getConfig(); 
-                    string CURL = "C:/inetpub/pConfig/iljin/";
-                    string URL1 = CURL + Config.cfgFile;
 
-                    if (File.Exists(URL1))
-                    {
-                        Config.URL = URL1;
-                        Config.getConfig();
-                    }
+                    Config.getConfig();
+                    //string CURL = "C:/inetpub/pConfig/iljin/";
+                    //string URL1 = CURL + Config.cfgFile;
+
+                    //if (File.Exists(URL1))
+                    //{
+                    //    Config.URL = URL1;
+                    //    Config.getConfig();
+                    //}
                 }
                 DB_Conn = new MySqlConnection(Config.conn);
                 DB_Conn.Open();
