@@ -119,9 +119,6 @@ namespace MysqlLib
         {
             string url = URL; //  Environment.CurrentDirectory + "\\" + cfgFile;
 
-            conn = "Server=101.101.209.100;port=3306;Database=iljin;Uid=idakonet;Pwd=idakonet!@#$;character set=euckr;allow zero datetime=yes;";
-            conn = "Server=101.101.209.100;port=3306;Database=iljin_test;Uid=idakonet;Pwd=idakonet!@#$;character set=euckr;allow zero datetime=yes;";
-            return true;
             if (!File.Exists(url)) { return false; }
             try
             {

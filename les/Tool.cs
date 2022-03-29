@@ -23,6 +23,14 @@ namespace les
                 }
             }
         }
+
+        //금액 콤마 찍기
+        public static string SetComma(object obj)
+        {
+            if (obj == null) return "";
+
+            return string.Format("{0:#,0}", obj);
+        }
     }
 
     public static class Tool_Date
